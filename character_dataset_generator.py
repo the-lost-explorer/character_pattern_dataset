@@ -65,7 +65,7 @@ for letter in letters:
             write_to_csv.append(distort_text(character,(len(character)*j)))
 
     df = pd.DataFrame(write_to_csv)
-    df.to_csv("/data/"+letter+".csv")
+    df.to_csv(letter+".csv")
 
       
 
