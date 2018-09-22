@@ -21,6 +21,9 @@ Credits for helping with python: @thevimal98
 4. Run the code and you'll be prompted for the character you want the training dataset for.
 5. Find a `data` folder with patterns of letters stored in `.csv` format. 
 
+## Example from the data set
+![sample](https://github.com/the-lost-explorer/character_pattern_dataset/blob/master/Capture.JPG)
+
 Dataset contains 200 training examples
 
 
