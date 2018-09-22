@@ -1,6 +1,10 @@
 # character_pattern_dataset
 A pattern recognition training data set for characters.
 
+Credits for idea of distortion: @neha-chaudhari
+
+Credits for helping with python: @thevimal98
+
 # What is this project?
   This project aims at making a dataset for character recogniton.
 
