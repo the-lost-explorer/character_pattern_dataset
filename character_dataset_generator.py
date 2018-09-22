@@ -53,8 +53,8 @@ def distort_text(d_character,distortion_scale):
 
 ##Append to the following list the things that you want to get for its character recognition dataset.
 letters = []
-in = input("Enter a character: ")
-letters.append(in)
+inp = input("Enter a character: ")
+letters.append(inp)
 for letter in letters:
     write_to_csv = []
     for i in range(50):
