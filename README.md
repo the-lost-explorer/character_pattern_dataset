@@ -20,3 +20,31 @@ Credits for helping with python: @thevimal98
 3. Perform `pip3 install -r requirements.txt`.
 4. Run the code and you'll be prompted for the character you want the training dataset for.
 5. Find a `data` folder with patterns of letters stored in `.csv` format. 
+
+# Example 
+
+Output 1:
+
+....###....
+..$##.##...
+..#$..$##$.
+.##...$.##.
+.######$##.
+.##.....##.
+.##.....##.
+....$......
+
+Output 2:
+
+....###....
+...#$.##$..
+..##...##..
+.$#.$...##.
+.#########.
+.##.$$.$##.
+.##.....$#.
+.$...$....$
+
+Dataset contains 200 training examples
+
+
