@@ -24,6 +24,8 @@ Credits for helping with python: @thevimal98
 ## Example from the data set
 ![sample](https://github.com/the-lost-explorer/character_pattern_dataset/blob/master/Capture.JPG)
 
-Dataset contains 200 training examples
+# Description
+Dataset contains 200 training examples.
+The letter is stored rowise in 7 columns of the CSV file.
 
 
