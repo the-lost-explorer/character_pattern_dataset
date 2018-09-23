@@ -25,7 +25,8 @@ Credits for helping with python: @thevimal98
 ![sample](https://github.com/the-lost-explorer/character_pattern_dataset/blob/master/Capture.JPG)
 
 # Description
-Dataset contains 200 training examples.
+Dataset generates 200 training examples for each character.
+Find a precompiled dataset of letters in uppercase from A to Z in the data folder.
 The letter is stored rowise in 7 columns of the CSV file.
 
 
