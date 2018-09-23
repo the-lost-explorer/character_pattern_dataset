@@ -6,7 +6,7 @@ Credits for idea of distortion: @neha-chaudhari
 Credits for helping with python: @thevimal98
 
 # What is this project?
-  This project aims at making a dataset for character recogniton.
+  This project aims at making a dataset for character recogniton in patterns.
 
 # Dependencies
 
